@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-hook-usememo/static/css/main.b100e6da.chunk.css",
+    "main.js": "/react-hook-usememo/static/js/main.9797c9dd.chunk.js",
+    "main.js.map": "/react-hook-usememo/static/js/main.9797c9dd.chunk.js.map",
+    "runtime-main.js": "/react-hook-usememo/static/js/runtime-main.9cf3b792.js",
+    "runtime-main.js.map": "/react-hook-usememo/static/js/runtime-main.9cf3b792.js.map",
+    "static/js/2.a96194b8.chunk.js": "/react-hook-usememo/static/js/2.a96194b8.chunk.js",
+    "static/js/2.a96194b8.chunk.js.map": "/react-hook-usememo/static/js/2.a96194b8.chunk.js.map",
+    "index.html": "/react-hook-usememo/index.html",
+    "precache-manifest.bba1771d2649cba619d7a71ffa252dbf.js": "/react-hook-usememo/precache-manifest.bba1771d2649cba619d7a71ffa252dbf.js",
+    "service-worker.js": "/react-hook-usememo/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/react-hook-usememo/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cf3b792.js",
+    "static/js/2.a96194b8.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.9797c9dd.chunk.js"
+  ]
+}
